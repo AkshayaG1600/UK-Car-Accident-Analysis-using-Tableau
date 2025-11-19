@@ -20,13 +20,15 @@ Trend analysis by:
 
 Accident severity
 
-Time of day, day of week, and month
+ - Time of day, day of week, and month
 
-Road type and speed limits
+ - Road type and speed limits
 
-Weather and light conditions
+ - Weather and light conditions
 
-Geospatial mapping of accident hotspots.
+ - Geospatial mapping of accident hotspots.
+
+ - Type of Vehicales
 
 Interactive Tableau dashboards for intuitive exploration.
 
