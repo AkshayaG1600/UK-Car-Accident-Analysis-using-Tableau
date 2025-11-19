@@ -18,7 +18,7 @@ Data cleaning and preprocessing of UK accident datasets.
 
 Trend analysis by:
 
-Accident severity
+ - Accident severity
 
  - Time of day, day of week, and month
 
